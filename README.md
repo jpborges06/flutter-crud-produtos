@@ -2,8 +2,8 @@
 
 Atividade de aula invertida (Prof. Clerivaldo Roccia).
 
-**Aluno:** SEU NOME AQUI  
-**Turma:** SUA TURMA AQUI
+**Aluno:** João Pedro Borges Sartori
+**Turma:** Ciência da Computação - 6º semestre
 
 ## Projetos
 
